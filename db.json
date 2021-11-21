@@ -39,7 +39,7 @@
   "club": [{
       "name": "Computer Science 187",
       "clubCode": "cs187Main",
-      "addCode": "",
+      "addCode": "AAAAAm",
       "member": [{
           "username": "phanalvin1",
           "rank": "co-founder"
@@ -61,7 +61,7 @@
   {
     "name": "Frontend - CS 187",
     "clubCode": "cs187Frontend",
-    "addCode": "",
+    "addCode": "AAAAAf",
     "member": [{
         "username": "phanalvin1",
         "rank": "founder"
@@ -75,7 +75,7 @@
   {
     "name": "Backend - CS 187",
     "clubCode": "cs187Backend",
-    "addCode": "",
+    "addCode": "AAAAAb",
     "member": [{
         "username": "avlaniShalin1",
         "rank": "founder"
