@@ -1,38 +1,42 @@
 {
-  "name": "Alvin Phan",
-  "username": "phanalvin1",
-  "password": "turtwigBestPokemon98",
-  "club": [
-    "cs187Main",
-    "cs187Frontend"
+  "users":[
+    {
+      "name": "Alvin Phan",
+      "username": "phanalvin1",
+      "password": "turtwigBestPokemon98",
+      "club": [
+        "cs187Main",
+        "cs187Frontend"
+      ]
+    },
+    {
+      "name": "Anthony Orciuoli",
+      "username": "orciuoliAnthony1",
+      "password": "admin",
+      "club": [
+        "cs187Main",
+        "cs187Frontend"
+      ]
+    },
+    {
+      "name": "Shalin Avlani",
+      "username": "avlaniShalin1",
+      "password": "admin",
+      "club": [
+        "cs187Main",
+        "cs187Backend"
+      ]
+    },
+    {
+      "name": "Kevin Lee",
+      "username": "leeKevin1",
+      "password": "admin",
+      "club": [
+        "cs187Main",
+        "cs187Backend"
+      ]
+    }
   ]
-},
-{
-  "name": "Anthony Orciuoli",
-  "username": "orciuoliAnthony1",
-  "password": "admin",
-  "club": [
-    "cs187Main",
-    "cs187Frontend"
-   ]
-},
-{
-  "name": "Shalin Avlani",
-  "username": "avlaniShalin1",
-  "password": "admin",
-  "club": [
-    "cs187Main",
-    "cs187Backend"
-  ]
-},
-{
-  "name": "Kevin Lee",
-  "username": "leeKevin1",
-  "password": "admin",
-  "club": [
-    "cs187Main",
-    "cs187Backend"
-    ]
 }
 
   
